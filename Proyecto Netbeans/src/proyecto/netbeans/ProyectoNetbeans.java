@@ -20,6 +20,7 @@ public class ProyectoNetbeans {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null,"Proyecto Final");
+        JOptionPane.showMessageDialog(null,"Realizo en NetBeans");
     }
     
 }
