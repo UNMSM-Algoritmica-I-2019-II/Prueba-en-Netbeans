@@ -20,6 +20,7 @@ public class JavaApplication3 {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null,"Proyecto FInal");
+        JOptionPane.showMessageDialog(null,"Realizado en NetBeans");
     }
     
 }
